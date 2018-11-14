@@ -1,0 +1,7 @@
+{
+	"Default" :				{	"Contact": "Contact",
+				 	 			"Others": "Others"
+							},
+	"home" : 				{	"Title": "Home"
+			 				}
+}
